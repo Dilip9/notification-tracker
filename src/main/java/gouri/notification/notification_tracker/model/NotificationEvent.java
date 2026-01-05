@@ -14,5 +14,6 @@ public class NotificationEvent {
     private String messageType;
     private String status;
     private String content;
-    private LocalDateTime createdAt;
+    private String channelType;
+    //private LocalDateTime createdAt;
 }
